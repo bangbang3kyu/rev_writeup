@@ -15,6 +15,12 @@ Dreamhack Reversing 문제를 풀이하고
 
 </div>
 
+<br><br>
+
+> **Reversing Journey Started on July 3, 2026**
+
+</div>
+
 ---
 
 ## 🚩 Progress
