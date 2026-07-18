@@ -23,25 +23,23 @@ Dreamhack Reversing 문제를 풀이하고
 
 ---
 
-## 🚩 Progress
+## 🚩 Reversing Progress
 
-| Challenge | Progress | Status |
-|:---:|:---|:---:|
-| C1 | ![C1](https://progress-bar.xyz/100/?title=C1&width=300&color=22C55E) | ✅ |
-| C2 | ![C2](https://progress-bar.xyz/60/?title=C2&width=300&color=F59E0B) | 🚧 |
-| C3 | ![C3](https://progress-bar.xyz/0/?title=C3&width=300&color=6B7280) | ⏳ |
-| C4 | ![C4](https://progress-bar.xyz/0/?title=C4&width=300&color=6B7280) | ⏳ |
-| C5 | ![C5](https://progress-bar.xyz/0/?title=C5&width=300&color=6B7280) | ⏳ |
-| C6 | ![C6](https://progress-bar.xyz/0/?title=C6&width=300&color=7C3AED) | 🎯 |
+> **Current Stage:** C2 🚧  
+> **Completed:** 1 / 6 Challenges
 
-| Challenge | Status | Write-up |
-|:---:|:---:|:---:|
-| C1 | ✅ Completed | [View Write-up](./Dreamhack%20C1) |
-| C2 | 🚧 In Progress | [View Write-up](./Dreamhack%20C2) |
-| C3 | ⏳ Not Started | — |
-| C4 | ⏳ Not Started | — |
-| C5 | ⏳ Not Started | — |
-| C6 | 🎯 Goal | — |
+<br>
+
+| Challenge | Progress | Status | Write-up |
+|:---:|:---:|:---:|:---:|
+| **C1** | ![100%](https://progress-bar.xyz/100/?width=220&color=3A5A40&style=for-the-badge) | ✅ Completed | [View Write-up](./Dreamhack%20C1) |
+| **C2** | ![60%](https://progress-bar.xyz/60/?width=220&color=F59E0B&style=for-the-badge) | 🚧 In Progress | [View Progress](./Dreamhack%20C2) |
+| **C3** | ![0%](https://progress-bar.xyz/0/?width=220&color=6B7280&style=for-the-badge) | ⏳ Not Started | — |
+| **C4** | ![0%](https://progress-bar.xyz/0/?width=220&color=6B7280&style=for-the-badge) | ⏳ Not Started | — |
+| **C5** | ![0%](https://progress-bar.xyz/0/?width=220&color=6B7280&style=for-the-badge) | ⏳ Not Started | — |
+| **C6** | ![0%](https://progress-bar.xyz/0/?width=220&color=7C3AED&style=for-the-badge) | 🎯 Final Goal | — |
+
+<br>
 
 ---
 
