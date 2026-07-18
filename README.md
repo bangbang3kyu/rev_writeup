@@ -37,7 +37,7 @@ Dreamhack Reversing 문제를 풀이하고
 | Challenge | Status | Write-up |
 |:---:|:---:|:---:|
 | C1 | ✅ Completed | [View Write-up](./Dreamhack%20C1) |
-| C2 | 🚧 In Progress | [View Progress](../Dreamhack%20C2) |
+| C2 | 🚧 In Progress | [View Progress](./Dreamhack%20C2) |
 | C3 | ⏳ Not Started | — |
 | C4 | ⏳ Not Started | — |
 | C5 | ⏳ Not Started | — |
