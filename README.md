@@ -33,7 +33,7 @@ Dreamhack Reversing 문제를 풀이하고
 | Challenge | Progress | Status | Write-up |
 |:---:|:---:|:---:|:---:|
 | **C1** | ![100%](https://progress-bar.xyz/100/?width=220&color=3A5A40&style=for-the-badge) | ✅ Completed | [View Write-up](./Dreamhack%20C1) |
-| **C2** | ![60%](https://progress-bar.xyz/60/?width=220&color=F59E0B&style=for-the-badge) | 🚧 In Progress | [View Progress](./Dreamhack%20C2) |
+| **C2** | ![67%](https://progress-bar.xyz/60/?width=220&color=F59E0B&style=for-the-badge) | 🚧 In Progress | [View Progress](./Dreamhack%20C2) |
 | **C3** | ![0%](https://progress-bar.xyz/0/?width=220&color=6B7280&style=for-the-badge) | ⏳ Not Started | — |
 | **C4** | ![0%](https://progress-bar.xyz/0/?width=220&color=6B7280&style=for-the-badge) | ⏳ Not Started | — |
 | **C5** | ![0%](https://progress-bar.xyz/0/?width=220&color=6B7280&style=for-the-badge) | ⏳ Not Started | — |
